@@ -1,0 +1,29 @@
+--2016-10-02 18:54:13--  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Resolving www.dropbox.com (www.dropbox.com)... 93.46.8.89, 200:2:4e10:310f::
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Connection timed out.
+Retrying.
+
+--2016-10-02 18:58:29--  (try: 2)  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Connection timed out.
+Retrying.
+
+--2016-10-02 19:02:45--  (try: 3)  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Connection timed out.
+Retrying.
+
+--2016-10-02 19:07:03--  (try: 4)  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Connection timed out.
+Retrying.
+
+--2016-10-02 19:11:21--  (try: 5)  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Connection timed out.
+Retrying.
+
+--2016-10-02 19:15:41--  (try: 6)  https://www.dropbox.com/s/vr8ckp0pxgbldhs/conv3d_deepnetA_sport1m_iter_1900000?dl=0
+Connecting to www.dropbox.com (www.dropbox.com)|93.46.8.89|:443... failed: Connection timed out.
+Connecting to www.dropbox.com (www.dropbox.com)|200:2:4e10:310f::|:443... failed: Network is unreachable.

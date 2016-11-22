@@ -1,0 +1,54 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+FLAGS	extra/resize_and_crop_images.py	/^FLAGS = gflags.FLAGS$/;"	v
+OpenCVResizeCrop	extra/resize_and_crop_images.py	/^class OpenCVResizeCrop:$/;"	c	inherits:
+PILResizeCrop	extra/resize_and_crop_images.py	/^class PILResizeCrop:$/;"	c	inherits:
+ResizeCropImagesMapper	extra/resize_and_crop_images.py	/^class ResizeCropImagesMapper(mapreducer.BasicMapper):$/;"	c	inherits:mapreducer.BasicMapper
+create_field_index	extra/plot_training_log.py.example	/^def create_field_index():$/;"	f	access:public
+extract_datetime_from_line	extra/extract_seconds.py	/^def extract_datetime_from_line(line, year):$/;"	f	access:public
+extract_seconds	extra/extract_seconds.py	/^def extract_seconds(input_file, output_file):$/;"	f	access:public
+feature_extraction_pipeline	extract_features.cpp	/^int feature_extraction_pipeline(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+feature_extraction_pipeline	extract_features.cpp	/^int feature_extraction_pipeline(int argc, char** argv);$/;"	p	file:	signature:(int argc, char** argv)
+feature_extraction_pipeline	extract_image_features.cpp	/^int feature_extraction_pipeline(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+feature_extraction_pipeline	extract_image_features.cpp	/^int feature_extraction_pipeline(int argc, char** argv);$/;"	p	file:	signature:(int argc, char** argv)
+get_chart_type_description	extra/plot_training_log.py.example	/^def get_chart_type_description(chart_type):$/;"	f	access:public
+get_chart_type_description_separator	extra/plot_training_log.py.example	/^def get_chart_type_description_separator():$/;"	f	access:public
+get_data_file	extra/plot_training_log.py.example	/^def get_data_file(chart_type, path_to_log):$/;"	f	access:public
+get_data_file_type	extra/plot_training_log.py.example	/^def get_data_file_type(chart_type):$/;"	f	access:public
+get_data_label	extra/plot_training_log.py.example	/^def get_data_label(path_to_log):$/;"	f	access:public
+get_field_descriptions	extra/plot_training_log.py.example	/^def get_field_descriptions(chart_type):$/;"	f	access:public
+get_field_indecies	extra/plot_training_log.py.example	/^def get_field_indecies(x_axis_field, y_axis_field):    $/;"	f	access:public
+get_legend_loc	extra/plot_training_log.py.example	/^def get_legend_loc(chart_type):$/;"	f	access:public
+get_log_file_suffix	extra/plot_training_log.py.example	/^def get_log_file_suffix():$/;"	f	access:public
+get_log_parsing_script	extra/plot_training_log.py.example	/^def get_log_parsing_script():$/;"	f	access:public
+get_supported_chart_types	extra/plot_training_log.py.example	/^def get_supported_chart_types():$/;"	f	access:public
+is_valid_chart_type	extra/plot_training_log.py.example	/^def is_valid_chart_type(chart_type):$/;"	f	access:public
+is_x_axis_field	extra/plot_training_log.py.example	/^def is_x_axis_field(field):$/;"	f	access:public
+load_data	extra/plot_training_log.py.example	/^def load_data(data_file, field_idx0, field_idx1):$/;"	f	access:public
+main	blob_proto_to_blob_binary.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	compute_image_mean.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	compute_image_mean_from_list.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	compute_volume_mean.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	compute_volume_mean_from_list.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	convert_imageset.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	device_query.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	dump_network.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	extract_features.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	extract_image_features.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	extract_learned_filters.cpp	/^int main(int argc, char** argv){$/;"	f	signature:(int argc, char** argv)
+main	finetune_net.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	net_speed_benchmark.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	test_net.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	train_net.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	upgrade_net_proto_binary.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+main	upgrade_net_proto_text.cpp	/^int main(int argc, char** argv) {$/;"	f	signature:(int argc, char** argv)
+map	extra/resize_and_crop_images.py	/^    def map(self, key, value):$/;"	m	class:ResizeCropImagesMapper	access:public
+plot_chart	extra/plot_training_log.py.example	/^def plot_chart(chart_type, path_to_png, path_to_log_list):$/;"	f	access:public
+print_help	extra/plot_training_log.py.example	/^def print_help():$/;"	f	access:public
+random_marker	extra/plot_training_log.py.example	/^def random_marker():$/;"	f	access:public
+resize_and_crop_image	extra/resize_and_crop_images.py	/^    def resize_and_crop_image(self, input_file, output_file, output_side_length = 256):$/;"	m	class:OpenCVResizeCrop	access:public
+resize_and_crop_image	extra/resize_and_crop_images.py	/^    def resize_and_crop_image(self, input_file, output_file, output_side_length = 256):$/;"	m	class:PILResizeCrop	access:public
